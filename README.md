@@ -1,5 +1,5 @@
 <p align="right">
-  <img src ="https://tenor.com/view/sharingan-itachi-uchiha-gif-23646348" width = "360" height = "400" align = "right">
+  <img src ="https://c.tenor.com/QNuPMp9L0REAAAAC/sharingan-itachi-uchiha.gif" width = "360" height = "400" align = "right">
   </p>
 
 # Hey, I'm Tolesh Pathak
